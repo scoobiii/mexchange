@@ -1,4 +1,4 @@
-Mexchange: A Exchange da MEx™ - README
+Mexchange: A Exchange da MEx™ 
 
 Mexchange é a exchange descentralizada (DEX) da MEx™ Malokeir@x Eletrik@x, uma iniciativa que visa impulsionar a inovação, a sustentabilidade e a inclusão social em São Paulo. A Mexchange é a porta de entrada para o ecossistema STALEX, a criptomoeda que financia projetos inovadores na cidade.
 
